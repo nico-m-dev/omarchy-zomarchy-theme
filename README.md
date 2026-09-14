@@ -1,5 +1,7 @@
 # Zomarchy
 
+[![Built for Omarchy: Theme](https://raw.githubusercontent.com/tcballard/omarchy-badges/75975e5b5bf75e7ede3764bcd2950046f7abfe2c/badges/v1/omarchy-theme.svg)](https://github.com/tcballard/omarchy-badges)
+
 > A dark, humorous comic book zombie theme for [Omarchy](https://omarchy.org/) —
 > a handful of decaying undead, frozen mid-gesture in their 
 > past routines. Bold ink lines, gritty textures and muted
