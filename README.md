@@ -89,7 +89,7 @@ colors. Nothing is fresh; everything is reclaimed.
 | Text   | `#D8D2C8`| ![#D8D2C8](assets/swatches/d8d2c8.png) |
 | Bg     | `#121212`| ![#121212](assets/swatches/121212.png) |
 | Red    | `#B86F63`| ![#B86F63](assets/swatches/b86f63.png) |
-| Green  | `#6B8A5A`| ![#6B8A5A](assets/swatches/6b8a5a.png) |
+| Green  | `#508B4B`| ![#508B4B](assets/swatches/508b4b.png) |
 | Blue   | `#767E8E`| ![#767E8E](assets/swatches/767e8e.png) |
 
 ## License
